@@ -1,0 +1,18 @@
+
+.container .text {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+/******************************************/
+/* ALTERNATE METHOD USING TYPE SELECTORS ONLY  */
+/******************************************/
+
+/* div p {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;  
+} */
