@@ -1,0 +1,15 @@
+
+html {
+    font-size: 62.5%;
+}
+
+
+.section-heading-external {
+    background-color: red;
+    font-size: 3.2rem;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
