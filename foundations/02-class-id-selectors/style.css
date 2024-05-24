@@ -1,0 +1,23 @@
+html {
+    font-size: 62.5%;
+}
+
+
+.odd-paragraph {
+    background-color: rgba(238, 113, 113, 0.861);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#second-paragraph {
+    color: blue;
+    font-size: 3.6rem;
+}
+
+.font-size--helper{
+    font-size: 2.4rem;
+}
+
+#fourth-paragraph {
+    background-color: rgb(134, 254, 110);
+    font-weight: bold;
+}
